@@ -1,5 +1,3 @@
-## Hi, my name is Robin :+1:
-
 ## Languages and Tools
 ### Frontend
 
