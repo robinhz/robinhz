@@ -30,6 +30,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" /></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" /></code>
 
 
 ## Icon Source
