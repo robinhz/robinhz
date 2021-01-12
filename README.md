@@ -14,7 +14,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" /></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/haskell/haskell-original.svg" /></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" /></code>
 
 ### Databases
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /></code>
